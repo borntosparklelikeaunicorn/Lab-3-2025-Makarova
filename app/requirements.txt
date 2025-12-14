@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+catboost
+clearml
+pydantic
+scikit-learn
+matplotlib
